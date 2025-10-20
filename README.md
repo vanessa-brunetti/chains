@@ -55,7 +55,6 @@ where:
 
 If the chain is an L2 or a shard of another chain you can link it to the parent chain like this:
 
-
 ```json
 {
   ...
